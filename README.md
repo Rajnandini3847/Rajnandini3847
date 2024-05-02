@@ -1,7 +1,8 @@
 <h1>Hi, I’m Rajnandini Tiwari</h1> 
 - I’m interested in frontend and ml development 
 - 🌱 I’m currently learning python
-- I’m looking to collaborate on online hackathons
+Let's collab in different hackathons 
+<h3> www.linkedin.com/in/rajnandinitiwari </h3>
   
 - 📫 How to reach me -
   Email- rajnandinitiwari3847@gmail.com
