@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajnandini3847
+<h1>Hi, I’m Rajnandini Tiwari</h1> 
 - I’m interested in frontend and ml development 
 - 🌱 I’m currently learning python
 - I’m looking to collaborate on online hackathons
