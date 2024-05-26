@@ -21,6 +21,7 @@ Let's collab in different hackathons
 
 [![Rajnandini3847's GitHub | Stats](https://stats.quine.sh/Rajnandini3847/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rajnandini3847)
 [![Rajnandini3847's GitHub | Dependencies](https://stats.quine.sh/Rajnandini3847/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rajnandini3847)
+[![Rajnandini3847's GitHub | Languages Over Time](https://stats.quine.sh/Rajnandini3847/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rajnandini3847)
 <!---
 Rajnandini3847/Rajnandini3847 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
