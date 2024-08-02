@@ -10,6 +10,9 @@
 - 🏆 Winner of 10+ hackathons
 - 💬 Pronouns: She/Her
 
+</td>
+<td>
+
 ## Let's Connect!
 I'm always excited to collaborate on hackathons and interesting projects. Feel free to reach out!
 
@@ -18,6 +21,10 @@ I'm always excited to collaborate on hackathons and interesting projects. Feel f
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajnandinitiwari3847@gmail.com)
 
 </td>
+</tr>
+</table>
+<table>
+  <tr>
 <td valign="top" width="50%">
 
 ## Skills and Tools
@@ -33,11 +40,6 @@ I'm always excited to collaborate on hackathons and interesting projects. Feel f
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td valign="top" width="50%">
 
 ### Data Science and ML
@@ -52,7 +54,11 @@ I'm always excited to collaborate on hackathons and interesting projects. Feel f
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </td>
-<td valign="top" width="50%">
+
+</tr>
+</table>
+
+<div valign="top" width="50%">
 
 
 ## 📊 GitHub Stats
@@ -71,10 +77,7 @@ I'm always excited to collaborate on hackathons and interesting projects. Feel f
   
   
 </div>
-
-</td>
-</tr>
-</table>
+</div>
 
 
 
