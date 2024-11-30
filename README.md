@@ -5,8 +5,8 @@
 <td valign="top" width="50%">
 
 ## About Me
-- 👩‍💻 Frontend and ML Developer
-- 🌱 Currently learning Python
+- 👩‍💻 Frontend Developer
+- 🌱 Currently learning Typescript
 - 🏆 Winner of 10+ hackathons
 - 💬 Pronouns: She/Her
 
@@ -30,12 +30,12 @@ I'm always excited to collaborate on hackathons and interesting projects. Feel f
 ## Skills and Tools
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks and Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
